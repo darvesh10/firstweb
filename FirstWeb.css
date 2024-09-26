@@ -1,0 +1,15 @@
+
+.title{
+    display: flex;
+    justify-content: center;
+    color: rgb(24, 187, 209)
+    
+}
+
+
+.daterange{
+    display: flex;
+    justify-content: center;
+    
+    
+};
